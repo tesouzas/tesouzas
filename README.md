@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3333ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Stephanie+Souza;I'm+32+years+old;I'm+from+Brazil;I'm+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3333ff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Stephanie+Souza.;Eu+tenho+32+anos.;Sou+desenvolvedora+Full+Stack+Jr.;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tesouzas&show_icons=true&count_private=true&hide_border=true&title_color=3333ff&icon_color=3333ff&text_color=8080ff&bg_color=0d1117" alt="Stephanie Souza github stats" /> 
